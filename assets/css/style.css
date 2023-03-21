@@ -1,0 +1,21 @@
+.container {
+  margin: auto;
+  width: 100%;
+  height: 100px;
+  text-align: right;
+}
+
+.main {
+  margin-bottom: 20px;
+  /* font-size: 10px; */
+  width: 100%;
+  height: 25px;
+  text-align: center;
+}
+
+#read {
+  margin: auto;
+  padding: 10px;
+  width: 100%;
+  height: 25px;
+}
